@@ -1,3 +1,13 @@
+// Task 1:Class and Object Basics Create a
+// class called`Person`with:-
+// Two variables:`name`(String),`age`(int)-
+// A method`display()` that prints the name and age.
+
+// Expected Output:
+// Name: Alice
+// Age: 25
+
+
 public class Person {
     
      String name ;
